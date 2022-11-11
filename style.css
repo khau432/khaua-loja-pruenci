@@ -6,16 +6,16 @@ background-color: white ;
 Estilizar o título principal do seu site
  h1{
 color:  black ;
-font-family:30 ;
-background: 20;
+font-family:200 ;
+background: 500;
 }
 
 Estilizar os parágrafos
 p{
-color: ;
-font-family: ;
-font-size: ;
-background: ;
+color:blue ;
+font-family:200;
+font-size:300 ;
+background:red ;
 }
 #aa{
 width: 100%;
