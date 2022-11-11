@@ -6,7 +6,7 @@ background-color: white ;
 Estilizar o título principal do seu site
  h1{
 color:  black ;
-font-family:1000;
+font: family 30px;;
 background:white;
 }
 
