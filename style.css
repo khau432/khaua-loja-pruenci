@@ -13,7 +13,7 @@ background:white;
 Estilizar os parágrafos
 p{
 color:blue ;
-font-family:2000;
+font: family 200px;;
 font-size:300 ;
 background:red ;
 }
