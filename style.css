@@ -14,7 +14,7 @@ Estilizar os parágrafos
 p{
 color:blue ;
 font: family 200px;;
-font-size:300 ;
+font: size 40px; ;
 background:red ;
 }
 #aa{
