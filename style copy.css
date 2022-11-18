@@ -1,0 +1,22 @@
+Estilizar a cor de fundo do seu site como o css
+body{
+background-color: black;
+}
+
+Estilizar o título principal do seu site
+ h1{
+color:  black ;
+font: family 40px;50px;
+background:white;
+}
+
+Estilizar os parágrafos
+p{
+color:blue ;
+font: family 50px;;
+font: size 40px; ;
+background:red;
+}
+#aa{
+width: 100%;
+}
